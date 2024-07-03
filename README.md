@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Django Backend developer
 ------------------------
 
-I am software engineering student at Addis Ababa science and Technology University (AASTU). I have basic understanding of C++ and java and have build projects. I am also very passionate about software and i am working to be django expert.
-
 *   🌍  I'm based in Addis Ababa
 *   ✉️  You can contact me at [ziontaa9@gmail.com](mailto:ziontaa9@gmail.com)
 *   🧠  I'm learning Laravel
