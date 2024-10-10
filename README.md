@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Addis Ababa
 *   ✉️  You can contact me at [ziontaa9@gmail.com](mailto:ziontaa9@gmail.com)
 *   🧠  I'm learning Laravel
-*   🤝  I'm open to collaborating on Django based projects and any other backend related projects
 *   ⚡  I like to engage in volunteering activities and enhance my soft skills by attending workshop and seminars.
 <a href="https://www.github.com/tsitiii" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/tsitiii?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
@@ -27,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tsitiii"><img src="https://github-readme-stats.vercel.app/api?username=tsitiii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="tsitiii's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/tsitiii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tsitiii&stroke=0891b2&background=171717&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
