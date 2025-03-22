@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------------------
 
-*   🌍  I'm based in Addis
+*   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [ziontaa9@gmail.com](mailto:ziontaa9@gmail.com)
 *   🧠  I'm learning Laravel
 *   ⚡  I like to engage in volunteering activities and enhance my soft skills by attending workshop and seminars.
