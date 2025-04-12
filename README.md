@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [ziontaa9@gmail.com](mailto:ziontaa9@gmail.com)
 *   🧠  I'm learning Laravel
-*   ⚡  I like to engage in volunteering activities and enhance my soft skills by attending workshop and seminars.
+*   ⚡  I like to engage in volunteering activities and enhance my soft skills by attending workshop and seminarss.
 <a href="https://www.github.com/tsitiii" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/tsitiii?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
 
