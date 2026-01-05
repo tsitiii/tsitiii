@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                   src="https://img.shields.io/github/followers/tsitiii?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
 
 ### Skills 
-<p align="left">
+
 
 <!-- Languages -->
 <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/></a>
@@ -51,7 +51,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text"/></a>
 
-</p>
+
  
 
 
