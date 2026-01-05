@@ -26,10 +26,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-
- [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tsitiii&theme=nightowl)](https://git.io/streak-stats)
 <a href="https://github.com/tsitiii">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsitiii&bg_color=171717&color=0891b2&line=a855f7&point=0891b2&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
        alt="GitHub Commits Graph" />
 </a>
+<br> <br>
+
+ [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tsitiii&theme=nightowl)](https://git.io/streak-stats)
 
