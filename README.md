@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠 Passionate Python developer, building backend applications
 * 📱 Flutter enthusiast, creating intuitive and scalable mobile apps
 * ⚡ I'm learning Blockchain , exploring smart contracts and Web3 technologies
-* 🏋️‍♀️Fun fact: i'm Gym-goer and Football defender
+* 🏋️‍♀️Fun fact: i'm Gym-goer and Football player 
 
 
 <a href="https://www.github.com/tsitiii" target="_blank" rel="noreferrer"><img
