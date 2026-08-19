@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️ Reach me at [tsiyong8@gmail.com](mailto:ziontaa9@gmail.com)
 * 🧠 Passionate Python developer, building backend applications
 * 📱 Flutter enthusiast, creating intuitive and scalable mobile apps
-* ⚡ I'm learning Blockchain , exploring smart contracts and Web3 technologies
 * 🏋️‍♀️Fun fact: i'm Gym-goer and Football player 
 
 
